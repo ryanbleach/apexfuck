@@ -1,0 +1,79 @@
+{
+    "aimbot": {
+        "aim_key": 70.0,
+        "aimbotmaxdist": 150.0,
+        "enable_aimbot": true,
+        "fovamt": 161.0,
+        "fovclr": [
+            100.0,
+            0.0,
+            0.0,
+            100.0
+        ],
+        "ignoreknockedplayers": true,
+        "ignoretm": true,
+        "prediction": true,
+        "showfov": true,
+        "smoothing": 8.0,
+        "vischeck": true
+    },
+    "esp": {
+        "box": true,
+        "box_clr": [
+            255.0,
+            255.0,
+            255.0,
+            255.0
+        ],
+        "distance": true,
+        "distance_clr": [
+            213.0,
+            112.0,
+            100.0,
+            255.0
+        ],
+        "enable_visuals": true,
+        "headdot": false,
+        "health": true,
+        "name": true,
+        "name_clr": [
+            213.0,
+            112.0,
+            255.0,
+            255.0
+        ],
+        "playerdist": 300.0,
+        "shield": true,
+        "skeleton": false,
+        "skeletonclr": [
+            255.0,
+            255.0,
+            255.0,
+            255.0
+        ],
+        "teamesp": true,
+        "vischeck": true,
+        "weapon": true,
+        "wpn_clr": [
+            213.0,
+            112.0,
+            100.0,
+            255.0
+        ]
+    },
+    "misc": {
+        "cross_clr": [
+            255.0,
+            255.0,
+            255.0,
+            255.0
+        ],
+        "enable_crosshair": true,
+        "enable_misc": true,
+        "enable_norecoil": true,
+        "enablethirdperson": false,
+        "recoil_x": 0.0,
+        "recoil_y": 0.0,
+        "thirdkey": 79.0
+    }
+}
