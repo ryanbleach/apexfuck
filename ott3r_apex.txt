@@ -1,9 +1,9 @@
 {
     "aimbot": {
         "aim_key": 70.0,
-        "aimbotmaxdist": 150.0,
+        "aimbotmaxdist": 250.0,
         "enable_aimbot": true,
-        "fovamt": 161.0,
+        "fovamt": 68.0,
         "fovclr": [
             100.0,
             0.0,
@@ -14,11 +14,13 @@
         "ignoretm": true,
         "prediction": true,
         "showfov": true,
-        "smoothing": 8.0,
+        "showprediction": true,
+        "smoothing": 11.0,
         "vischeck": true
     },
     "esp": {
-        "box": true,
+        "bonesesp1": false,
+        "box": false,
         "box_clr": [
             255.0,
             255.0,
@@ -34,18 +36,38 @@
         ],
         "enable_visuals": true,
         "headdot": false,
-        "health": true,
+        "health": false,
+        "health_clr": [
+            0.0,
+            255.0,
+            0.0,
+            255.0
+        ],
         "name": true,
         "name_clr": [
-            213.0,
-            112.0,
+            243.0,
+            215.0,
             255.0,
             255.0
         ],
-        "playerdist": 300.0,
-        "shield": true,
-        "skeleton": false,
+        "operatorname": true,
+        "playerdist": 800.0,
+        "shield": false,
+        "shield_clr": [
+            40.0,
+            40.0,
+            255.0,
+            180.0
+        ],
+        "skeleton": true,
         "skeletonclr": [
+            255.0,
+            255.0,
+            255.0,
+            255.0
+        ],
+        "snaplines": false,
+        "snaplines_clr": [
             255.0,
             255.0,
             255.0,
@@ -53,7 +75,23 @@
         ],
         "teamesp": true,
         "vischeck": true,
-        "weapon": true,
+        "vischeck_drop": [
+            true,
+            false
+        ],
+        "vischeck_hidden": [
+            255.0,
+            0.0,
+            0.0,
+            255.0
+        ],
+        "vischeck_seen": [
+            0.0,
+            255.0,
+            0.0,
+            255.0
+        ],
+        "weapon": false,
         "wpn_clr": [
             213.0,
             112.0,
@@ -68,9 +106,12 @@
             255.0,
             255.0
         ],
+        "crosshairlength": 5.0,
         "enable_crosshair": true,
         "enable_misc": true,
         "enable_norecoil": true,
+        "enable_spectators": true,
+        "enablebhop": true,
         "enablethirdperson": false,
         "recoil_x": 0.0,
         "recoil_y": 0.0,
