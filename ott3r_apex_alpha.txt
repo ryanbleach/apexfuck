@@ -1,0 +1,158 @@
+{
+    "aimbot": {
+        "aim_key": 70.0,
+        "aimbotmaxdist": 317.0,
+        "enable_aimbot": true,
+        "fovamt": 106.0,
+        "fovclr": [
+            100.0,
+            0.0,
+            0.0,
+            100.0
+        ],
+        "ignoreknockedplayers": true,
+        "ignoretm": true,
+        "prediction": true,
+        "second_feature_key": -1.0,
+        "showfov": true,
+        "showprediction": false,
+        "smoothing": 11.0,
+        "vischeck": true
+    },
+    "esp": {
+        "attach_clr": [
+            0.0,
+            200.0,
+            255.0,
+            180.0
+        ],
+        "box": false,
+        "box_clr": [
+            255.0,
+            255.0,
+            255.0,
+            255.0
+        ],
+        "cornerbox": false,
+        "distance": true,
+        "distance_clr": [
+            213.0,
+            112.0,
+            100.0,
+            255.0
+        ],
+        "enable_loot": false,
+        "enable_visuals": true,
+        "filledbox": false,
+        "guns_clr": [
+            255.0,
+            255.0,
+            0.0,
+            180.0
+        ],
+        "headdot": false,
+        "health": false,
+        "health_clr": [
+            0.0,
+            255.0,
+            0.0,
+            255.0
+        ],
+        "loot_attach": false,
+        "loot_clr": [
+            255.0,
+            255.0,
+            255.0,
+            180.0
+        ],
+        "loot_colours": false,
+        "loot_distance": 13.0,
+        "loot_guns": false,
+        "loot_key": 20.0,
+        "loot_supplies": false,
+        "name": true,
+        "name_clr": [
+            213.0,
+            112.0,
+            255.0,
+            255.0
+        ],
+        "operatorname": false,
+        "playerdist": 484.0,
+        "playerheaddot_clr": [
+            205.0,
+            105.0,
+            205.0,
+            180.0
+        ],
+        "shield": false,
+        "shield_clr": [
+            40.0,
+            40.0,
+            255.0,
+            180.0
+        ],
+        "showlootdist": false,
+        "skeleton": true,
+        "skeletonclr": [
+            255.0,
+            255.0,
+            255.0,
+            255.0
+        ],
+        "snaplines": false,
+        "snaplines_clr": [
+            255.0,
+            255.0,
+            255.0,
+            255.0
+        ],
+        "supplies_clr": [
+            0.0,
+            255.0,
+            0.0,
+            180.0
+        ],
+        "teamesp": true,
+        "vischeck": true,
+        "vischeck_drop": [
+            true,
+            false
+        ],
+        "vischeck_hidden": [
+            255.0,
+            0.0,
+            0.0,
+            255.0
+        ],
+        "vischeck_seen": [
+            0.0,
+            255.0,
+            0.0,
+            255.0
+        ],
+        "weapon": false,
+        "wpn_clr": [
+            213.0,
+            112.0,
+            100.0,
+            255.0
+        ]
+    },
+    "misc": {
+        "cross_clr": [
+            255.0,
+            255.0,
+            255.0,
+            255.0
+        ],
+        "crosshairlength": 11.0,
+        "enable_crosshair": true,
+        "enable_misc": true,
+        "enable_norecoil": true,
+        "enablebhop": true,
+        "nosway": true,
+        "recoil_x": 0.0,
+        "recoil_y": 0.0
+    }
+}
