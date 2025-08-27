@@ -21,6 +21,7 @@ m_vecAbsOrigin = 0x17c
 netChannel = 0x1ba3a20
 observerList = 0x61e71e8
 studioHdr = 0xfe8
+viewmatrix = 0x1E2D030
 
 [Buttons] 
 +attack = 0x3cbceb8
